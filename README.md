@@ -7,5 +7,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nextjs,git,github" />
  </a>
 <h3>A few funny jokes:</h3>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
