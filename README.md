@@ -3,8 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Front-end+developer+from+Lviv" alt="Typing SVG" /></a>
 
 <h3>Languages and Tools:</h3>
-<a href="https://skillicons.dev" style='margin: 0 0 25px 0;'>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nextjs,git,github" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nextjs,git,github" height="25" width="25"/>
  </a>
 <h3>A few funny jokes:</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
