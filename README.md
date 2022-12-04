@@ -7,6 +7,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nextjs,git,github,gitflow,vscode,intellij" />
  </a>
 <br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
