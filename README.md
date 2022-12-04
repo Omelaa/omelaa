@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Front-end+developer+from+Lviv" alt="Typing SVG" /></a>
 
 <h3>Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nextjs,git,github,gitflow)](https://skillicons.dev)
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
