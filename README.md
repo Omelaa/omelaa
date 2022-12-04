@@ -6,6 +6,12 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nextjs,git,github" height="25" width="25"/>
  </a>
+<a href="https://github.com/feden2906/icons/blob/main/skils/JavaScript.png">
+  <img height="25" title="CSS" src="https://github.com/feden2906/icons/blob/main/skils/CSS.png">
+</a>
+<a href="https://github.com/feden2906/icons/blob/main/skils/JavaScript.png">
+  <img height="25" title="JavaScript" src="https://github.com/feden2906/icons/blob/main/skils/JavaScript.png">
+</a>
 <h3>A few funny jokes:</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
