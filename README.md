@@ -4,7 +4,7 @@
 
 <h3>Languages and Tools:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nextjs,git,github,gitflow" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,typescript,nextjs,git,github,gitflow,vscode,intellij" />
   </a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
